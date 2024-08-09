@@ -14,7 +14,7 @@ h1 {
 }
 
 .red {
-  background: linear-gradient( rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
+  background: linear-gradient(rgb(122, 74, 14), rgb(245, 62, 113), rgb(162, 27, 27));
 }
 
 .green {
@@ -22,5 +22,5 @@ h1 {
 }
 
 .blue {
-  background-color: hsl(240, 100%, 50%);
+  background: hsl(240, 100%, 50%);
 }
